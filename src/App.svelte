@@ -5,7 +5,7 @@
 	import Home from './pages/Home.svelte';
 	import Navbar from './partials/Navbar.svelte';
 	import Select from './components/Select.svelte'
-	import Test from './components/Test.svelte'
+
 
 
 	
