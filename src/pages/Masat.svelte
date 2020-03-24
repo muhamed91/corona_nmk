@@ -6,6 +6,7 @@
 
 <main>
     <h1>Masat e parandalimit</h1>
+    
 </main>
 
 <style>

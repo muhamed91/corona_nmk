@@ -22,7 +22,6 @@
 	// Day in AL
 
 	const dayWeeks = ['E Hënë', 'E Martë', 'E Mërkur', 'E Enjte', 'E Premte', 'E Shtunë', 'E Diel'];
-	dayWeeks.reverse();
 	
 
 
@@ -33,7 +32,7 @@
 		day: "2-digit",
 	});	
 
-	var dayWeek = dayWeeks[date.getDay()];
+	var dayWeek = dayWeeks[date.getDay()-1];
 		
 
 	
